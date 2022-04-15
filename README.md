@@ -1,16 +1,22 @@
-### Hi there 👋
+### <p align="center"> Hey! I'm Zette. 👋 </p>
+#### <p align="center">Front-end and Back-end Developer.</p>
 
-<!--
-**ZetteCynosure/ZetteCynosure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- - -
 
-Here are some ideas to get you started:
+#### :computer: | ___Programming languages___.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
+
+- - -
+
+#### :notebook: | ___My personal projects___.
+
+<br>
+
+  - <a href="https://github.com/ZetteCynosure/Cshar_chemistry"> (C#)hemistry. </a>
+  - <a href="https://github.com/ZetteCynosure/productivity-console-app"> Productive console app. </a>
+  - <a href="https://github.com/ZetteCynosure/bmi-calculator"> BMI Calculator. </a>
+
+<br>
+
+##### More information in my portfolio: https://zettecynosure.github.io/templates/
