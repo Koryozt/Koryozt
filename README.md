@@ -14,7 +14,7 @@
 <br>
 
   - <a href="https://github.com/ZetteCynosure/Cshar_chemistry"> (C#)hemistry. </a>
-  - <a href="https://github.com/ZetteCynosure/productivity-console-app"> Productive console app. </a>
+  - <a href="https://github.com/ZetteCynosure/productivity-console-app"> Productivitysharp. </a>
   - <a href="https://github.com/ZetteCynosure/bmi-calculator"> BMI Calculator. </a>
 
 <br>
