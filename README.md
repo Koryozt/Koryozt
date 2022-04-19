@@ -1,5 +1,4 @@
-### <p align="center"> Hey! I'm Zette. 👋 </p>
-#### <p align="center">Front-end and Back-end Developer.</p>
+## <p align="center"> Hey! I'm Zette. 👋 </p>
 
 - - -
 
@@ -20,3 +19,7 @@
 <br>
 
 ##### More information in my portfolio: https://zettecynosure.github.io/templates/
+
+<br>
+
+#### Also, check my repositories below.
