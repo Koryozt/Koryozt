@@ -1,7 +1,5 @@
 ## <p align="center"> Hey! I'm Zette. 👋 </p>
 
-- - -
-
 #### :computer: | ___Programming languages___.
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
@@ -18,8 +16,8 @@
 
 <br>
 
-##### More information in my portfolio: https://zettecynosure.github.io/templates/
+##### More information about me and my projects in my portfolio: https://zettecynosure.github.io/templates/
 
 <br>
 
-#### Also, check my repositories below.
+#### <p align="center"> Also, check my repositories below. </p>
