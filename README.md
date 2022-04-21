@@ -1,12 +1,19 @@
-## <p align="center"> Hey! I'm Zette. 👋 </p>
+### <p align="center"> Hey there! I'm Zette. 👋 </p>
+#### <p align="center"> Frontend & Backend developer - Software Engineer. </p>
 
-#### :computer: | ___Programming languages___.
+<hr>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50">  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50">
+### :computer: | Knowledges.
+
+- C#, C++, Python, Javascript.
+
+- ASP.NET Core, MVC, Flask, Django, ReactJS, NodeJS, HTML, XML, CSS, Bootstrap.
+
+- MySQL, SQLite, MS SQL.
 
 - - -
 
-#### :notebook: | ___My personal projects___.
+#### :notebook: | My personal projects.
 
 <br>
 
