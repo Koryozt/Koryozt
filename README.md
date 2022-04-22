@@ -25,7 +25,7 @@
 
 - - -
 
-#### 📱: | Contact me.
+#### 📱 | Contact me.
 
 <br>
 
