@@ -23,8 +23,23 @@
 
 <br>
 
+- - -
+
+#### 📱: | Contact me.
+
+<br>
+
+  - <a href="https://www.linkedin.com/in/gsilvadotnet/" target="_blank"> LinkedIn</a>.
+  - <a href="https://www.instagram.com/zz.gus_00/" target="_blank"> Instagram</a>.
+  - <a href="https://www.codewars.com/users/Zette" target="_blank"> Codewars Profile</a>.
+  - Discord: `#zzztt ;#6190`.
+
+<br>
+
+- - -
+
 ##### More information about me and my projects in my portfolio: https://zettecynosure.github.io/templates/
 
 <br>
 
-#### <p align="center"> Also, check my repositories below. </p>
+### <p align="center"> Also, check all my repositories below, you will see interesting things. ⬇ </p>
