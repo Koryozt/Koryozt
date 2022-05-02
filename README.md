@@ -20,6 +20,7 @@
   - <a href="https://github.com/ZetteCynosure/Cshar_chemistry"> (C#)hemistry. </a>
   - <a href="https://github.com/ZetteCynosure/productivity-console-app"> Productivitysharp. </a>
   - <a href="https://github.com/ZetteCynosure/bmi-calculator"> BMI Calculator. </a>
+  - <a href="https://github.com/ZetteCynosure/caracas-shooter"> Caracas Shooter. </a>
 
 <br>
 
