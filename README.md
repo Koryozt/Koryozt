@@ -39,8 +39,6 @@
 
 - - -
 
-##### More information about me and my projects in my portfolio: https://zettecynosure.github.io/templates/
-
 <br>
 
 ### <p align="center"> Also, check all my repositories below, you will see interesting things. ⬇ </p>
