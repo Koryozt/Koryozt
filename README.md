@@ -19,7 +19,8 @@
 
   - <a href="https://github.com/ZetteCynosure/productivity-console-app"> Productivitysharp. </a>
   - <a href="https://github.com/ZetteCynosure/bmi-calculator"> BMI Calculator. </a>
-  - <a href="https://github.com/ZetteCynosure/caracas-shooter"> Caracas Shooter. </a>
+  - <a href="https://github.com/Zettte/lol-ping-checker"> League of Legends - Ping Checker. </a>
+  - <a href="https://github.com/Zettte/Zip-Command"> Zip command. </a>
 
 <br>
 
