@@ -5,9 +5,9 @@
 
 ### :computer: | Knowledges.
 
-- C#, C++, Python, Javascript.
+- C#, C++ and JavaScript.
 
-- ASP.NET Core, MVC, Flask, Django, ReactJS, NodeJS, HTML, XML, CSS, Bootstrap.
+- ASP.NET Core [Blazor and MVC], ReactJS, HTML, CSS, Bootstrap.
 
 - MySQL, SQLite, MS SQL.
 
@@ -18,9 +18,7 @@
 <br>
 
   - <a href="https://github.com/ZetteCynosure/productivity-console-app"> Productivitysharp. </a>
-  - <a href="https://github.com/ZetteCynosure/bmi-calculator"> BMI Calculator. </a>
-  - <a href="https://github.com/Zettte/lol-ping-checker"> League of Legends - Ping Checker. </a>
-  - <a href="https://github.com/Zettte/Zip-Command"> Zip command. </a>
+  - 
 
 <br>
 
