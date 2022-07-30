@@ -5,22 +5,9 @@
 
 ### :computer: | Knowledges.
 
-- C#, C++ and JavaScript.
-
-- ASP.NET Core [Blazor and MVC], ReactJS, HTML, CSS, Bootstrap.
-
-- MySQL, SQLite, MS SQL.
-
-- - -
-
-#### :notebook: | My personal projects.
-
-<br>
-
-  - <a href="https://github.com/ZetteCynosure/productivity-console-app"> Productivitysharp. </a>
-  - 
-
-<br>
+- C#, C++, C, JavaScript and Python.
+- ASP.NET Core, Flask, Angular, ReactJS, HTML, CSS, Bootstrap.
+- MS SQL, MySQL and SQLite.
 
 - - -
 
@@ -29,9 +16,8 @@
 <br>
 
   - <a href="https://www.linkedin.com/in/gsilvadotnet/" target="_blank"> LinkedIn</a>.
-  - <a href="https://www.instagram.com/zz.gus_00/" target="_blank"> Instagram</a>.
-  - <a href="https://www.codewars.com/users/Zette" target="_blank"> Codewars Profile</a>.
-  - Discord: `#zzztt ;#6190`.
+  - <a href="https://codeforces.com/profile/Zette" target="_blank"> Codeforces
+  - <a href="https://www.codewars.com/users/Zette" target="_blank"> Codewars</a>.
 
 <br>
 
