@@ -1,5 +1,5 @@
 ### <p align="center"> Hey there! I'm Zette. 👋 </p>
-#### <p align="center"> Frontend & Backend developer - Software Engineer. </p>
+#### <p align="center"> Fullstack developer - Software Engineer. </p>
 
 <hr>
 
@@ -11,7 +11,7 @@
 
 - - -
 
-#### 📱 | Contact me.
+### 📱 | My profiles.
 
 <br>
 
