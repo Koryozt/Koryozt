@@ -1,5 +1,5 @@
 ### <p align="center"> Hey there! I'm Zette. 👋 </p>
-#### <p align="center"> Fullstack developer - Software Engineer. </p>
+#### <p align="center"> Backend developer - Chemical Engineering Student </p>
 
 <hr>
 
