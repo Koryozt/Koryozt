@@ -1,24 +1,18 @@
-### <p align="center"> Hey there! I'm Gustavo AKA Zette. 👋 </p>
-#### <p align="center"> Backend developer - Chemical Engineering Student </p>
+### <p align="center"> Welcome boe, I'm Gustavo Silva 👋 </p>
+#### <p align="center"> Backend developer | AI | Chemical Engineering </p>
 
 <hr>
 
-### :computer: | Technologies.
+### :computer: | Languages, Frameworks and Technologies
 
-- C#, JavaScript and Python.
-- .NET, ASP.NET Core Web API, Blazor, Angular, HTML, CSS + Bootstrap.
-- MS SQL, MySQL and SQLite.
-- Redis and Docker.
+- Languages = [ C#, Python, JavaScript / TypeScript ]
+- Frameworks = [ ASP.NET Core (MVC, Web API, Blazor), Django, Node.js, React, Angular ]
+- Technologies = [ Docker, Redis, Git ]
 
-- - -
+<hr>
 
-### 📱 | My profiles.
+### 📌 | About me
 
-  - <a href="https://www.linkedin.com/in/gustavos10/" target="_blank"> LinkedIn</a>.
-  - <a href="https://codeforces.com/profile/Zette" target="_blank"> Codeforces
-  - <a href="https://www.codewars.com/users/Zette" target="_blank"> Codewars</a>.
-  - Discord: zxt#8196
+I'm a chemical engineer student, backend developer with knowledge in frontend development and learning Artificial Intelligence. I spend my time programming python and c# libraries/scripts and doing APIs or web applications. Many of my project tries to implement the newest technologies and the best practices for a better experience.
 
-- - -
-
-### <p align="center"> Check all my repositories below, you will see interesting things. ⬇ </p>
+### <p align="center"> Check all my repositories below, you will see interesting things! </p>
