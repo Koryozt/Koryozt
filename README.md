@@ -1,18 +1,13 @@
-### <p align="center"> Welcome boe, I'm Gustavo Silva 👋 </p>
-#### <p align="center"> Backend developer | AI | Chemical Engineering </p>
-
-<hr>
-
-### :computer: | Languages, Frameworks and Technologies
-
-- Languages = [ C#, Python, JavaScript / TypeScript ]
-- Frameworks = [ ASP.NET Core (MVC, Web API, Blazor), Django, Node.js, React, Angular ]
-- Technologies = [ Docker, Redis, Git ]
+### <p align="center"> I'm Gustavo Silva, a.k.a. Kzt 👋 </p>
 
 <hr>
 
 ### 📌 | About me
 
-I'm a chemical engineer student, backend developer with knowledge in frontend development and learning Artificial Intelligence. I spend my time programming python and c# libraries/scripts and doing APIs or web applications. Many of my project tries to implement the newest technologies and the best practices for a better experience.
+- Chemical engineering student, currently studying my 5th semester.
+- Web developer mainly focused in backend development with ASP.NET Core and Django. 
+-  Learning Artificial Intelligence on my own.
 
-### <p align="center"> Check all my repositories below, you will see interesting things! </p>
+I spend my time programming both python and c# libraries/scripts and doing APIs integration, development or web applications. Many of my project tries to implement the newest technologies and the best practices for a better experience both for the user and the programmer. I'm someone focused on achieving great things and becoming the best in anything I do.
+
+### <p align="center"> Check my repositories and if you're interested come on and let's work together in a project! </p>
