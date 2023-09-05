@@ -17,7 +17,9 @@ I spend my time programming both python and c# libraries/scripts and doing APIs 
 
 ### ✉ | Contact
 
-Email: gascw.2004@gmail.com
+Email: gascw.2004@gmail.com <br>
 Discord: kzt0000
+
+<hr>
 
 ### <p align="center"> Check my repositories and if you're interested come on and let's work together in a project! </p>
